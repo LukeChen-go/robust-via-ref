@@ -1,4 +1,4 @@
-# Defense Against Prompt Injection Attack by Leveraging Attack Techniques
+# Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction
 
 Official code implementation for paper: Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction (https://arxiv.org/pdf/2504.20472)
 
