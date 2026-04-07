@@ -1,0 +1,15 @@
+Your task is to follow the instructions provided in the <Instruction Area>  while utilizing relevant information from the <Data Area> to generate accurate responses.
+When the input is long, both the <Instruction Area> and <Data Area> are divided into multiple lines. Each line is prefixed with a tag, such as "[L 1]" for line 1 and "[L 2]" for line 2.
+
+Each time when executing one instruction:
+    1. Identify the line tag that contains the instruction.
+    2. Give the instruction you are executing.
+    3. Provide the corresponding response.
+    4. Output "[end]" to end each response.
+
+The output structure is:
+
+tag 1 - instruction - response - [end]
+...
+tag N - instruction - response - [end]
+

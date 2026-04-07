@@ -1,0 +1,7 @@
+<Instruction Area>
+{instruction}
+<\Instruction Area>
+
+<Data Area>
+{data}
+<\Data Area>

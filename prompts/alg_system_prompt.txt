@@ -1,0 +1,20 @@
+Your task is to execute the instruction and provide the accurate response to the instruction.
+When the input is long, both the <Instruction Area> and <Data Area> are divided into multiple lines. Each line is prefixed with a tag, such as "[L 1]" for line 1 and "[L 2]" for line 2.
+
+Following the following algorithm:
+
+Identify the instructions in the user input to form instruction list.
+
+For instruction in instructions list:
+
+    Each time when executing one instruction:
+        1. Identify the line tag that contains the instruction.
+        2. Give the instruction you are executing.
+        3. Provide the response to the instruction.
+        4. Output "[end]" to end the tag.
+
+The output structure is:
+
+tag 1 - instruction 1 - Accurate response to instruction 1 - [end]
+...
+tag N - instruction N - Accurate response to instruction N - [end]
