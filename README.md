@@ -1,6 +1,6 @@
 # Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction
 
-Official code implementation for ACL2026 findings paper: Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction (https://arxiv.org/pdf/2504.20472)
+Official code implementation for ACL2026 Findings paper: Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction (https://arxiv.org/pdf/2504.20472)
 
 
 ### Environment
